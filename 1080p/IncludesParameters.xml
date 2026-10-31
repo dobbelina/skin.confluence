@@ -9,7 +9,7 @@
 		<definition>
 			<control type="button" id="$PARAM[flag_id]">
 				<width>$PARAM[flag_width]</width>
-				<height>45</height>
+				<height>39</height>
 				<align>$PARAM[flag_align]</align>
 				<aligny>center</aligny>
 				<font>font13_title</font>
