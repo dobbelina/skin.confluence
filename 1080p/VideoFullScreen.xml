@@ -279,7 +279,7 @@
 						<width>110</width>
 						<height>53</height>
 						<aspectratio align="center">keep</aspectratio>
-						<texture>$INFO[VideoPlayer.AudioCodec,flagging/audio/,.png]</texture>
+						<texture>$VAR[VideoPlayerAudioCodecTexture]</texture>
 						<visible>!Player.ChannelPreviewActive + !String.IsEmpty(VideoPlayer.AudioCodec)</visible>
 					</control>
 					<control type="image" id="1">
