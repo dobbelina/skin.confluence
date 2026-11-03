@@ -5,4 +5,4 @@ Files modified:
 - IncludesCodecFlagging.xml
 - VideoFullScreen.xml
 
-The skin now shows the missing audio quality badges.
+The skin now shows the missing audio quality badges and codec images
