@@ -80,8 +80,7 @@
 			<texture>$INFO[ListItem.VideoAspect,flagging/aspectratio/,.png]</texture>
 		</control>
 	</include>
-	
-	
+		
 <variable name="VideoPlayerAudioCodecTexture">
 
 	<!-- AAC -->
