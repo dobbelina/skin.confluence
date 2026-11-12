@@ -6,6 +6,7 @@ Files modified:
 - VideoFullScreen.xml
 - Includes.xml
 - Added new: av1.png, rv40.png, theora.png, missing: 8K.png
+- Changed:: 480.png, 540.png, 576.png
 - Renamed skin.confluence.special
 
 The skin now shows the missing audio quality badges and codec images in the player OSD menu.
