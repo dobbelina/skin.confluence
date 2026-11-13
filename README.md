@@ -7,7 +7,7 @@ Files modified:
 - Includes.xml
 - Added new: av1.png, rv40.png, theora.png, fps.png, missing: 8K.png
 - Changed: 480.png, 540.png, 576.png
-- Added fps basge
+- Added fps badge
 - Renamed skin.confluence.special
 
 The skin now shows the missing audio quality badges and codec images in the player OSD menu.
