@@ -7,6 +7,7 @@ Files modified:
 - Includes.xml
 - Home.xml
 - MusicVisualisation.xml
+- MusicOSD.xml
 
 - Added new: av1.png, rv40.png, theora.png, fps.png, missing: 8K.png
 - Changed: 480.png, 540.png, 576.png
